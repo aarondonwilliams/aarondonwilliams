@@ -1,3 +1,4 @@
+Badges:
 <a href="https://www.edgexfoundry.org/">
   <img src="EdgeEx_BugHunter_v2-01.png" width="150" height="150" title="EdgeX Bug Hunter 150x150"/>
 </a>
